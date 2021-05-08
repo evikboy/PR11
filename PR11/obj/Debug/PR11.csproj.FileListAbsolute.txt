@@ -1,0 +1,7 @@
+C:\Users\Ez\source\repos\PR11\PR11\bin\Debug\PR11.exe.config
+C:\Users\Ez\source\repos\PR11\PR11\bin\Debug\PR11.exe
+C:\Users\Ez\source\repos\PR11\PR11\bin\Debug\PR11.pdb
+C:\Users\Ez\source\repos\PR11\PR11\obj\Debug\PR11.csprojAssemblyReference.cache
+C:\Users\Ez\source\repos\PR11\PR11\obj\Debug\PR11.csproj.CoreCompileInputs.cache
+C:\Users\Ez\source\repos\PR11\PR11\obj\Debug\PR11.exe
+C:\Users\Ez\source\repos\PR11\PR11\obj\Debug\PR11.pdb
